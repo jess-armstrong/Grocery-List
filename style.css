@@ -1,0 +1,25 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+h2 {
+  background-color: blanchedalmond;
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 2px solid;
+  border-color: black;
+}
+section {
+  background-color: lightgrey;
+  width: 150px;
+  margin: 0px 5px 0px 0px;
+  display: inline-block;
+  padding: 5px 30px 5px 15px;
+}
+img {
+  padding: 0px 5px 0px 10px;
+  margin-top: -10px;
+  margin-left: -10px;
+  max-width: 200px;
+  max-height: 200px;
+}
